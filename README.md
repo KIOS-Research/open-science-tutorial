@@ -1,5 +1,7 @@
 # open-science-tutorial
 
+Check capsule: https://codeocean.com/capsule/3413097/tree
+
 <a href="http://www.kios.ucy.ac.cy"><img src="https://www.kios.ucy.ac.cy/wp-content/uploads/2021/07/Logotype-KIOS.svg" width="200" height="100"/><a>
 
 [![license](https://img.shields.io/pypi/l/epyt.svg)](https://github.com/KIOS-Research/EPyT/blob/main/LICENSE.md)
